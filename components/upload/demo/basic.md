@@ -37,7 +37,7 @@ const props = {
 ReactDOM.render(
   <Upload {...props}>
     <Button type="ghost">
-      <Icon type="upload" /> Click to Upload
+      <Icon type="upload" /> click to Upload
     </Button>
   </Upload>
 , mountNode);
